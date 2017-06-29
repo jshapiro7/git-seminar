@@ -1,7 +1,10 @@
 h1 {
     text-align: center;
+    font-family: arial;
+    color: blue;
 }
 
 ul {
-    
+    text-align: center;
+    color: green;
 }
